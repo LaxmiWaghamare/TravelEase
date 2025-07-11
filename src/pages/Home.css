@@ -1,0 +1,9 @@
+.home {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Ensure proper spacing between sections */
+.home > * {
+  margin-bottom: 0;
+} 
